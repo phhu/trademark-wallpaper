@@ -6,10 +6,7 @@
   font-family: 'Mark';
   src: local('Mark'), url(./fonts/Mark-Bold.ttf) format('truetype');
 }
-
-
-
-
-text.mastercard {
-  font-family:'Mark';
+@font-face {
+  font-family: 'Futura';
+  src: local('Futura'), url(./fonts/futura-condensed-extrabold.ttf) format('truetype');
 }

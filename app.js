@@ -20,10 +20,10 @@ const App = () => {
   const dy = 15
   return (
     <div>
-      <svg height='600' width='600'>
-        <NorthFace transform="translate(100,0)" />
-        <Mastercard transform="translate(0,200)" />
-        <Nike />
+      <svg height='1000' width='1000'>
+        <NorthFace transform='translate(100,0)' />
+        <Mastercard transform='translate(0,200)' />
+        <Nike transform='translate(0,350)'/>
       </svg>
     </div>
   )
