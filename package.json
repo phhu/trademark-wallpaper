@@ -14,8 +14,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "powerthesaurus-api": "^2.0.3",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "synonymator": "^0.0.1",
+    "thesaurus": "^0.0.1",
+    "thesaurus-dom": "^1.2.3",
+    "wordhippo": "^0.0.2"
   },
   "devDependencies": {
     "cssnano": "^5.0.0",

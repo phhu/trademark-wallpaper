@@ -2,7 +2,14 @@
   font-family: 'Yantramanav';
   src: local('Yantramanav'), url(./fonts/Yantramanav.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Mark';
+  src: local('Mark'), url(./fonts/Mark-Bold.ttf) format('truetype');
+}
 
-text {
-  font-family:'sans-serif';
+
+
+
+text.mastercard {
+  font-family:'Mark';
 }
