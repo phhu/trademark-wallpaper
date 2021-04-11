@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Yantramanav';
+  src: local('Yantramanav'), url(./fonts/Yantramanav.ttf) format('truetype');
+}
+
+text {
+  font-family:'sans-serif';
+}
