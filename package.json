@@ -14,12 +14,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "nice-color-palettes": "^3.0.0",
     "powerthesaurus-api": "^2.0.3",
     "ramda": "^0.27.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "rita": "^2.4.86",
     "synonymator": "^0.0.1",
+    "synonyms-array": "^1.0.1",
     "thesaurus": "^0.0.1",
     "thesaurus-dom": "^1.2.3",
     "wordhippo": "^0.0.2"
